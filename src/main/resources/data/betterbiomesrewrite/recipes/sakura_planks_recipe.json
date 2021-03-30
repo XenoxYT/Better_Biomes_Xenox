@@ -1,0 +1,13 @@
+{
+  "group": "betterbiomesrewrite",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterbiomesrewrite:sakura_log"
+    }
+  ],
+  "result": {
+    "item": "betterbiomesrewrite:sakura_planks",
+    "count": 4
+  }
+}

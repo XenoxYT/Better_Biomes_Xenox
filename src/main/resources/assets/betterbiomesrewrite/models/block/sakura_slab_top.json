@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "betterbiomesrewrite:blocks/cherry_blossom_plank",
+    "top": "betterbiomesrewrite:blocks/cherry_blossom_plank",
+    "side": "betterbiomesrewrite:blocks/cherry_blossom_plank"
+  }
+}

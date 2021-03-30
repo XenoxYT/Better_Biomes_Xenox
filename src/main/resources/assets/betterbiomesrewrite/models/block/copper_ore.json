@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "betterbiomesrewrite:blocks/13581615-zmbmvri-x_m",
+    "particle": "betterbiomesrewrite:blocks/13581615-zmbmvri-x_m"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_fv": 17,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:ColdDesert"
+      },
+      {
+        "value": "desert"
+      },
+      {
+        "value": "mutated_desert"
+      },
+      {
+        "value": "soul_sand_valley"
+      },
+      {
+        "value": "mutated_mesa_clear_rock"
+      },
+      {
+        "value": "CUSTOM:Oxidized"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_LAVA"
+    },
+    "airColor": {
+      "value": -3368704,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "isDark": true,
+    "doesWaterVaporize": true,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.NETHER_BRICK"
+    },
+    "portalParticles": {
+      "value": "WHITE_ASH"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Wasteland Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "flint_and_steel_portal_igniter",
+    "portalTexture": "chumma",
+    "enablePortal": true
+  }
+}

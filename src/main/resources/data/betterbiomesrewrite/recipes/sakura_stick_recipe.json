@@ -1,0 +1,20 @@
+{
+  "group": "betterbiomesrewrite",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "betterbiomesrewrite:sakura_planks"
+    },
+    "1": {
+      "item": "betterbiomesrewrite:sakura_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}

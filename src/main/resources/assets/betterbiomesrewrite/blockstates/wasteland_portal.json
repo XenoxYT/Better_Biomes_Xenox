@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "betterbiomesrewrite:block/wasteland_portal_ew"
+    },
+    "axis=x": {
+      "model": "betterbiomesrewrite:block/wasteland_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "betterbiomesrewrite:blocks/cherry_wood_log_1",
+    "up": "betterbiomesrewrite:blocks/cherry_wood_log_1",
+    "north": "betterbiomesrewrite:blocks/fix",
+    "east": "betterbiomesrewrite:blocks/fix",
+    "south": "betterbiomesrewrite:blocks/fix",
+    "west": "betterbiomesrewrite:blocks/fix",
+    "particle": "betterbiomesrewrite:blocks/cherry_wood_log_1"
+  }
+}

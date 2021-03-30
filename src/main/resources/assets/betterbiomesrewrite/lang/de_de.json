@@ -1,0 +1,17 @@
+{
+  "biome.betterbiomesrewrite.oxidized": "Oxidized Desert",
+  "biome.betterbiomesrewrite.dying_forest": "Dying Forest",
+  "biome.betterbiomesrewrite.sakura_forest": "Kirschwald",
+  "block.betterbiomesrewrite.sakura_leaves": "Kirschblätter",
+  "item.betterbiomesrewrite.cherry": "Kirsche",
+  "item.betterbiomesrewrite.wasteland": "Wasteland Portal Igniter",
+  "biome.betterbiomesrewrite.tropical_plains": "Tropische Ebene",
+  "biome.betterbiomesrewrite.cold_desert": "Kalte Wüste",
+  "block.betterbiomesrewrite.copper_ore": "Kupfererz",
+  "enchantment.betterbiomesrewrite.cherryharvester": "Kirschernter",
+  "block.betterbiomesrewrite.sakura_log": "Sakura Log",
+  "block.betterbiomesrewrite.sakura_planks": "Sakura Planks",
+  "block.betterbiomesrewrite.sakura_stairs": "Sakura Stairs",
+  "itemGroup.tabdev": "Dev",
+  "block.betterbiomesrewrite.sakura_slab": "Sakura Slab"
+}

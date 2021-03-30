@@ -1,0 +1,33 @@
+{
+  "group": "betterbiomesrewrite",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "betterbiomesrewrite:sakura_planks"
+    },
+    "3": {
+      "item": "betterbiomesrewrite:sakura_planks"
+    },
+    "4": {
+      "item": "betterbiomesrewrite:sakura_planks"
+    },
+    "6": {
+      "item": "betterbiomesrewrite:sakura_planks"
+    },
+    "7": {
+      "item": "betterbiomesrewrite:sakura_planks"
+    },
+    "8": {
+      "item": "betterbiomesrewrite:sakura_planks"
+    }
+  },
+  "result": {
+    "item": "betterbiomesrewrite:sakura_stairs",
+    "count": 4
+  }
+}
