@@ -1,6 +1,6 @@
 {
-  "biome.betterbiomesrewrite.oxidized": "Oxidized Desert",
-  "biome.betterbiomesrewrite.dying_forest": "Dying Forest",
+  "biome.betterbiomesrewrite.oxidized": "Verrostete Wüste",
+  "biome.betterbiomesrewrite.dying_forest": "Sterbender Wald",
   "biome.betterbiomesrewrite.sakura_forest": "Kirschwald",
   "block.betterbiomesrewrite.sakura_leaves": "Kirschblätter",
   "item.betterbiomesrewrite.cherry": "Kirsche",
@@ -9,9 +9,9 @@
   "biome.betterbiomesrewrite.cold_desert": "Kalte Wüste",
   "block.betterbiomesrewrite.copper_ore": "Kupfererz",
   "enchantment.betterbiomesrewrite.cherryharvester": "Kirschernter",
-  "block.betterbiomesrewrite.sakura_log": "Sakura Log",
-  "block.betterbiomesrewrite.sakura_planks": "Sakura Planks",
-  "block.betterbiomesrewrite.sakura_stairs": "Sakura Stairs",
+  "block.betterbiomesrewrite.sakura_log": "Kirschbaumstamm",
+  "block.betterbiomesrewrite.sakura_planks": "Kirschholzbretter",
+  "block.betterbiomesrewrite.sakura_stairs": "Kirschholztreppen",
   "itemGroup.tabdev": "Dev",
-  "block.betterbiomesrewrite.sakura_slab": "Sakura Slab"
+  "block.betterbiomesrewrite.sakura_slab": "Kirschholzstufen"
 }
